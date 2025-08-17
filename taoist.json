@@ -16,9 +16,17 @@
     "chapter-0": {
       "volume": "1",
       "display_chapter": 0,
-      "title": "Prolouge",
-      "last_updated": 1754385600000,
-      "url": "v0ch0.mdx"
+      "title": "Illustration",
+      "last_updated": 1755413591276,
+      "url": "v1c0.mdx"
+    },
+    "chapters": {
+    "chapter-1": {
+      "volume": "1",
+      "display_chapter": 1.1,
+      "title": "The Yin–Yang Arts and the Netherflash Sword(1)",
+      "last_updated": 1755413603242,
+      "url": "v1c1p1.mdx"
     }
   }
 }
